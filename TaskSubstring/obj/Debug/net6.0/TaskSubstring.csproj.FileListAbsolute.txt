@@ -1,0 +1,14 @@
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\bin\Debug\net6.0\TaskSubstring.exe
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\bin\Debug\net6.0\TaskSubstring.deps.json
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\bin\Debug\net6.0\TaskSubstring.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\bin\Debug\net6.0\TaskSubstring.dll
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\bin\Debug\net6.0\TaskSubstring.pdb
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\TaskSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\TaskSubstring.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\TaskSubstring.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\TaskSubstring.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\TaskSubstring.dll
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\refint\TaskSubstring.dll
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\TaskSubstring.pdb
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\TaskSubstring.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Desktop\TaskSubstring\TaskSubstring\obj\Debug\net6.0\ref\TaskSubstring.dll
