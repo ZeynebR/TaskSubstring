@@ -1,10 +1,12 @@
 ﻿string Name = "Zeynab";
+string Name2 = "Ahad";
+
+Console.WriteLine(substring(0,4,Name));
+Console.WriteLine(  substring(0,2, Name2 ));
 
 
-Console.WriteLine(substring(0,4));
 
-
-string substring(int startindex, int length)
+string substring(int startindex, int length, string name)
 {
     string final = "";
 
@@ -12,7 +14,7 @@ string substring(int startindex, int length)
     {
         if (startindex + length < Name.Length)
         {
-            final += Name[i];
+            final += name[i];
         }
 
 
